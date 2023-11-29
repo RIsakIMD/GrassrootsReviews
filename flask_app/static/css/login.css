@@ -1,0 +1,11 @@
+
+#login-container {
+    display: flex;
+    padding: 10px 0px;
+}
+
+#login-container > div {
+    flex: 1;
+    margin: 20px;
+    padding: 10px 0px;
+}

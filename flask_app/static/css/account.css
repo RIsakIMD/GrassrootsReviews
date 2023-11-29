@@ -1,0 +1,24 @@
+
+#profile-root {
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+#profile-root > div {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 15px;
+}
+
+p {
+    margin: 0px 0px;
+}
+
+#profile-reviews {
+    width: 45%;
+}
+
+#new-review {
+    width: 45%;
+}

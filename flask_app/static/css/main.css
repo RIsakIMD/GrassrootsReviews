@@ -1,0 +1,24 @@
+
+#main-container {
+    display: flex;
+    margin-top: 3%;
+}
+
+.centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#scores {
+    width: 35%;
+}
+
+#featured {
+    width: 70%;
+}
+
+#reviews {
+    display: flex;
+    flex-direction: column;
+}

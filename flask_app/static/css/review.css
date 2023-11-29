@@ -1,0 +1,18 @@
+
+#review {
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    margin: 0px 0px;
+}
+
+.review-header {
+    font-size: 18pt;
+}
+
+#edit-review {
+    width: 45%;
+}
